@@ -352,28 +352,28 @@ skills-container>div>div {
 .item-1 {
   z-index: 2;
   opacity: 1;
-  background: url('./Media/Nykaa1.png');
+  background: url('./Media/tripoto1.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .item-2 {
-  background: url('./Media/Nykaa2.png');
+  background: url('./Media/tripoto2.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .item-3 {
-  background: url('./Media/Nykaa3.png');
+  background: url('./Media/tripoto3.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .item-4 {
-  background: url('./Media/Nykaa4.png');
+  background: url('./Media/tripoto4.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -404,14 +404,14 @@ skills-container>div>div {
 .meetup-1 {
   z-index: 2;
   opacity: 1;
-  background: url('./Media/Meetup1.png');
+  background: url('./Media/coding1.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .meetup-2 {
-  background: url('./Media/Meetup2.png');
+  background: url('./Media/coding2.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -444,28 +444,28 @@ skills-container>div>div {
 .mail-1 {
   z-index: 2;
   opacity: 1;
-  background: url('./Media/divex4.png');
+  background: url('./Media/dell1.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .mail-2 {
-  background: url('./Media/divex1.png');
+  background: url('./Media/dell2.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .mail-3 {
-  background: url('./Media/divex2.png');
+  background: url('./Media/dell3.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .mail-4 {
-  background: url('./Media/divex3.png');
+  background: url('./Media/dell4.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
