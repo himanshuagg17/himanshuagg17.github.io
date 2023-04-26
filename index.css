@@ -495,28 +495,28 @@ skills-container>div>div {
 .myhours-1 {
   z-index: 2;
   opacity: 1;
-  background: url('./Media/myhours1.png');
+  background: url('./Media/ctshirts1.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .myhours-2 {
-  background: url('./Media/myhours2.png');
+  background: url('./Media/ctshirts2.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .myhours-3 {
-  background: url('./Media/myhours3.png');
+  background: url('./Media/ctshirts3.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .myhours-4 {
-  background: url('./Media/myhours4.png');
+  background: url('./Media/ctshirts4.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
